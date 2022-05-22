@@ -1,1 +1,5 @@
 # MapStruct
+
+Modules:
+
+- MapStruct Application
