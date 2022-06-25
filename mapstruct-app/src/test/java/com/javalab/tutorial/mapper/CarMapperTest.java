@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class CarMapperTest {
 
-    private static Logger LOGGER = LoggerFactory.getLogger(CarMapperTest.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(CarMapperTest.class);
 
     @Test
     public void givenCarEntityToCarMapper_whenMaps_thenCorrect() {
